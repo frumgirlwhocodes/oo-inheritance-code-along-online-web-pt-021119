@@ -5,3 +5,6 @@ class Car < Vehicle
   end  
   
 end 
+
+tesla= Car.new("meduim", 5)
+tesla.go 
